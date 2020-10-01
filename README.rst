@@ -1,3 +1,4 @@
+      This is an Amazing Event Registration Website
 .. image:: https://badge.waffle.io/GDG-Ukraine/gdg.org.ua.svg?label=Stage: Ready For Dev&title=Ready for dev
    :target: http://waffle.io/GDG-Ukraine/gdg.org.ua
    :alt: Stories in Ready
